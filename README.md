@@ -1,1 +1,1 @@
-# ce306
+# University Elasticsearch assignment written in Python
